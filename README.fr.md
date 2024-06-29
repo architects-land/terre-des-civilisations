@@ -11,10 +11,11 @@ Sa spécificité est l'énorme modification de la génération.
 
 La génération de Terre des Civilisations est modifié par ces mods :
 - [Lithosphere](https://modrinth.com/datapack/lithosphere)
-- [Infinity Cave](https://modrinth.com/datapack/infinity-cave)
 - [Luki's Grand Capitals](https://modrinth.com/mod/lukis-grand-capitals)
 
 L'IA des poissons est améliorées à l'aide de [Boids](https://modrinth.com/mod/boids).
+
+La difficulté a été modifié à l'aide du mod custom [Difficulty Death Scaler](https://github.com/architects-land/difficulty-death-scaler).
 
 Il contient aussi les mods par défaut (listés dans [README.md](/README.md)).
 

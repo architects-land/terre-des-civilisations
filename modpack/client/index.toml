@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "8bbe5e19d1b45b336eb38e38b9cc9fba2d92baa48e35bf947abd3b73f402451c"
+hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "48fa9a6af8274d7ef20978f7715789244f56364477bb5af663ff710669561ef9"
+hash = "e0b80df6b8f1dfa275a1c9ee3e43f346b1839b544831fb11c5fe4204424fffc4"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "f18b9c834897c055f7d729dde0d754aa80b515ea6f7c19bc0df718b0f0a48650"
+hash = "9099b858e94f6f81db890c7d46f85601dee71ba33fb7ae19773b8da2ce8c3834"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "da02b5c6372cb22f9a92f94811e1beed07fa2205529c9c73fc1398ed50144cd4"
+hash = "09a2cb241231f2ff1d2e22620cd430a002b97a14704b83163cd89f36fcb72815"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "69ccdcf6c29d4809741828fbc9e6299f832c613c2f7db25de0bfae9f00290db6"
+hash = "1a04e69ec18c3f8b21ece3b810d3499f6381a6b8e75af38f17a4c9fabc7ab796"
 metafile = true
 
 [[files]]

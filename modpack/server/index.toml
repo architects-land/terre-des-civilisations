@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/boids.pw.toml"
-hash = "54b8fc7c3ef4d9c64ea9c5230e2bd86e63d8192dedc6fabb423673e10dfb92a0"
+hash = "9841a181f4e564c3c7a2501fda4575120c2b70a695cc309e7fd2ee98d9ea14a0"
 metafile = true
 
 [[files]]

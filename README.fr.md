@@ -16,7 +16,7 @@ La génération de Terre des Civilisations est modifié par ces mods :
 
 L'IA des poissons est améliorées à l'aide de [Boids](https://modrinth.com/mod/boids).
 
-Il contient aussi les mods par défaut (listés dans [README.md](/README.md)).
+Il contient aussi les mods par défaut (listés dans [default-resources.md](/default-resources.md)).
 
 ## Joueurs
 

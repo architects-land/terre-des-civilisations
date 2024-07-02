@@ -16,7 +16,7 @@ The generation of Terre des Civilisations is modified with these mods:
 
 The AI of fish is improved with [Boids](https://modrinth.com/mod/boids).
 
-It also includes the default mods (listed in [README.md](/README.md)).
+It also includes the default mods (listed in [default-resources.md](/default-resources.md)).
 
 ## Players 
 

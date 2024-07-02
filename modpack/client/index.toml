@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0355b81b049cfd99a5329a9c8a9fad50d2a3e2069276c1cfcc3a07eb95cf3b31"
+hash = "b707a57cb3489c634ef443f40929b73f9c8c694a7f421b430f48042cbf5e0383"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "e50356ad64c98c60fefee435fedb4fa306c3295f78047c9da1e16eac227964b1"
+hash = "160ff0525d480cd6de9806363bf38a32f9eb730ebece0a3c1c1c51ea04be6bdf"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "dfc7306d9eeaa3f4ddb22e6ef73141eba09f1891a584fdeeacaa9fbb2d182a77"
+hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]

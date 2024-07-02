@@ -5,7 +5,7 @@ Its specificity is the huge modification of the generation.
 
 | Version | Server |
 |---------|--------|
-|  1.21.X |  Quilt |
+|  1.21.X | Fabric |
 
 ## Modifications
 

@@ -5,7 +5,7 @@ Sa spécificité est l'énorme modification de la génération.
 
 | Version | Serveur |
 |---------|---------|
-|  1.21.X |  Quilt  |
+|  1.21.X | Fabric  |
 
 ## Modifications
 

@@ -191,6 +191,11 @@ hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-player-names.pw.toml"
+hash = "719c4754e113e30a7073455f1b263b24fdde20c38b25960fe4c61702117c8242"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true

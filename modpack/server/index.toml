@@ -21,6 +21,11 @@ hash = "e6aa1f8d7cf15a4c8f67be5a1be24498564999206e787f990c5c44f35848ef4f"
 metafile = true
 
 [[files]]
+file = "mods/difficulty-death-scaler.pw.toml"
+hash = "41767bdb8481898ee85c53eeb0cf1bb92418c7014607defd80acfb26b2c2b6e4"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true

@@ -24,7 +24,7 @@ It also includes the default mods (listed in [default-resources.md](/default-res
 List of players:
 - anhgelus
 
-## License
+## License
 
 This modpack is licensed under the MIT license, but not every jar file does not follow this license.
 

@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "73ca360d1e06a82d5bf205d3898b420674bd5e85e3626f37f9ae7a10dc48beb1"
+hash = "c9cb283ccc5e15516ac220630b3562552ba358b9422a7679b077a7142f16784d"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -111,9 +111,8 @@ hash = "160ff0525d480cd6de9806363bf38a32f9eb730ebece0a3c1c1c51ea04be6bdf"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
+file = "mods/iceberg.pw.toml.disable"
 hash = "855342383405534bab9335c187eb9d267ce75b295c26c461f44f5e22aeaa0874"
-metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -126,9 +125,8 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
-file = "mods/item-highlighter.pw.toml"
+file = "mods/item-highlighter.pw.toml.disable"
 hash = "55a94ed5f837d322444d13d39d1feaa71663511608ca4b00187793f9688f7d34"
-metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"

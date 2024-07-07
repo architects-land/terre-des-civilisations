@@ -46,9 +46,12 @@ hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
-file = "mods/lukis-grand-capitals.pw.toml"
+file = "mods/luki-s-grand-capitals-0.7-fabric-1.19-1.20.6.jar"
+hash = "8ca384bfe40286462da206fd0bc3f225efa7f7f19357c2f085000799ce6b2ebf"
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml.disable"
 hash = "086e72ec71a54cd12f504fb721f3f9d88d9221beb32bde128e82fcba585f224c"
-metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"

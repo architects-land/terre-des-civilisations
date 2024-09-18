@@ -5,7 +5,7 @@ Its specificity is the huge modification of the generation.
 
 | Version | Server |
 |---------|--------|
-|  1.21.X | Fabric |
+|  1.21.0 | Fabric |
 
 ## Modifications
 
@@ -21,10 +21,9 @@ It also includes the default mods (listed in [default-resources.md](/default-res
 
 ## Players 
 
-List of players:
-- anhgelus
+List of players available on [Architects Land's website](https://architects-land.anhgelus.world/season/terre-des-civilisations/)
 
 ## License
 
-This modpack is licensed under the MIT license, but not every jar file does not follow this license.
+This modpack is licensed under the MIT license, but every jar file may not follow this license.
 
